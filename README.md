@@ -27,6 +27,7 @@
 
 | 資源名稱 | 連結/說明 |
 | :--- | :--- |
-| **線上網站網址 (已部署)** | [https://socialpet-txxm.onrender.com](https://socialpet-txxm.onrender.com) |
+| **線上網站網址 (Render)** | [https://socialpet-txxm.onrender.com](https://socialpet-txxm.onrender.com) |
+| **線上網站網址 (Vercel)** | [https://socialpet-psi.vercel.app/](https://socialpet-psi.vercel.app/) |
 | **程式碼 GitHub Repo** | [(https://github.com/JoieLiu/socialpet)](https://github.com/JoieLiu/socialpet.git) |
 | **專題展示影片** | [請在此貼上您的專題展示影片連結] |
