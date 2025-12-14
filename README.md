@@ -19,6 +19,7 @@
 | 組員 | 李雅郁 | 41371204H |
 | 組員 | 劉祐羽 | 41371210H |
 | 組員 | 周怡辰 | 41371211H |
+#### 此專案皆由三人共同完成
 
 ***
 
@@ -29,4 +30,4 @@
 | **線上網站網址 (Render)** | [https://socialpet-txxm.onrender.com](https://socialpet-txxm.onrender.com) |
 | **線上網站網址 (Vercel)** | [https://socialpet-psi.vercel.app/](https://socialpet-psi.vercel.app/) |
 | **程式碼 GitHub Repo** | [https://github.com/JoieLiu/socialpet](https://github.com/JoieLiu/socialpet.git) |
-| **專題展示影片** | [請在此貼上您的專題展示影片連結] |
+| **專題展示影片** | [https://youtu.be/TOgQy5NhLto?si=rEABtd9ZGrcQTFhv] (https://youtu.be/TOgQy5NhLto?si=rEABtd9ZGrcQTFhv) |
