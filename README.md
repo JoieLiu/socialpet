@@ -30,4 +30,4 @@
 | **線上網站網址 (Render)** | [https://socialpet-txxm.onrender.com](https://socialpet-txxm.onrender.com) |
 | **線上網站網址 (Vercel)** | [https://socialpet-psi.vercel.app/](https://socialpet-psi.vercel.app/) |
 | **程式碼 GitHub Repo** | [https://github.com/JoieLiu/socialpet](https://github.com/JoieLiu/socialpet.git) |
-| **專題展示影片** | [https://youtu.be/TOgQy5NhLto?si=rEABtd9ZGrcQTFhv]  |
+| **專題展示影片** | https://youtu.be/TOgQy5NhLto?si=rEABtd9ZGrcQTFhv  |
